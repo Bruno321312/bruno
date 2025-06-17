@@ -1,0 +1,85 @@
+body {
+    font-family: ITC SerifGothic;
+    background-color: #011022;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-anchor: middle;
+}
+
+header {
+    background-color: black;
+    color:  #ff7d25;  
+    padding: 50px 0;  
+    text-align: center;
+}
+
+.container {
+    color:       whitesmoke   ;
+    max-width: 10000px;  
+    margin: 1000 auto;  
+    padding: 5px
+}
+
+h1 {
+    color: #ff7d25;  
+    font-size: 78px;  
+    text-align: center;  
+}
+
+p {
+    color: whites; 
+    font-size: 20px;  
+}
+
+p.texto {
+    color: whitesmoke;  
+}
+
+footer {
+    background-color: black; 
+    color: ;  
+    text-align: center;  
+    padding: 10px;  
+}
+
+p1 {
+    color: whites; 
+    font-size: 50px;
+    margin: 100px;
+
+padding: 6px;
+h2{
+
+    color: #ff7d25;
+    font-size: 80px;
+}
+}
+nav.menu li{
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+nav.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: black ;
+}
+
+nav.menu a {
+    display: block;     
+    padding: 30px 50px;
+    color: white;
+    text-decoration: none;
+}
+
+nav.menu a:hover {
+    background-color: white ;
+    color: black;
+}
+h2{
+    color: #ff9d00;
+    font-size: 40px;
+}
